@@ -2283,7 +2283,7 @@ input[type="button"].btn-block {
 }
  .dit-right h4 {
      font-size: 16px;
-     color: #3a4149;
+     color: #0000;
      font-weight: 500;
      margin: 0;
      padding: 0;
@@ -2295,7 +2295,7 @@ input[type="button"].btn-block {
 }
  .dit-right a {
      font-size: 14px;
-     color: #3a4149;
+     color: #0000;
      font-weight: 300;
      line-height: normal;
 }
@@ -2305,7 +2305,8 @@ input[type="button"].btn-block {
  .contact-block{
 }
  .contact-block .form-group .form-control {
-     background: #333;
+     background: #fff;
+     color: #000;
      height: 48px;
      font-size: 14px;
      border: 0;
