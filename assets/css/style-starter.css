@@ -9918,26 +9918,26 @@ a.navbar-brand span.fa {
   font-size:50px;
   line-height: 80px;
   color: #fff;
-  text-shadow: 1px 1px 1px   #89cff0
+  text-shadow: 1px 1px 1px   purple;
 }
 
 .w3l-main-banner .banner-info p {
   font-size: 28px;
   font-weight: 500;
-  color: #fff;
+  color: purple;
   display: inline-block;
-  line-height: 32px;
+  line-height: 35px;
   max-width: 750px;
-text-shadow: 1px 1px 1px   #89cff0}
+text-shadow: 1px 1px 1px   #000;}
 
 .w3l-main-banner .banner-info  .p1 {
     font-size: 20px;
   font-weight: 500;
-  color: #fff;
+  color: purple;
   display: inline-block;
   line-height: 32px;
   max-width: 750px; 
-  text-shadow: 1px 1px 1px   #89cff0
+  text-shadow: 1px 1px 1px   #000;
 }
 
 
