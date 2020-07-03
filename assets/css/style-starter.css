@@ -10806,7 +10806,7 @@ span.sicon {
 .w3l-services-block-3 .feature-body {
   transition: 0.3s ease-in;
   border: 1px solid var(--bg-light);
-  background-color: azure;
+   background-color: #89cff0;
   border-radius: var(--card-curve);
   padding: 2rem;
     box-shadow: 5px 10px  #8888;}
@@ -10860,7 +10860,7 @@ span.sicon {
   font-size: 40px;
   transform: scale(1);
   transition: 0.3s ease;
-  color: var(--primary); }
+   color: #fff; }
 .w3l-services-block-3 .fa{
       font-size: 45px;
 }
@@ -10883,10 +10883,10 @@ span.sicon {
   color: #fff; }
 
 .w3l-services-block-3 h3.feature-titel {
-  font-size: 22px;
+  font-size: 25px;
   line-height: 32px;
   font-weight: 700;
-  color: var(--heading);
+   color: #fff;
   transition: 0.3s ease; }
 
 .w3l-services-block-3 p.feature-text {
