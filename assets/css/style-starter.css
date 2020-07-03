@@ -9826,7 +9826,7 @@ a.navbar-brand span.fa {
     background: #1f242ccf;
     padding: 20px 20px;
     z-index: 10;
-    height: 100vh;
+    height: 200px;
     backdrop-filter: blur(2px);
     -webkit-backdrop-filter: blur(2px);
     -moz-backdrop-filter: blur(2px);
@@ -9919,7 +9919,7 @@ a.navbar-brand span.fa {
 
 .w3l-main-banner h3.banner-text {
   font-weight: 600;
-  font-size:40px;
+  font-size:50px;
   line-height: 80px;
   color: #ffffff; }
 
@@ -9952,10 +9952,10 @@ a.navbar-brand span.fa {
 
 @media (max-width: 992px) {
   .w3l-main-banner h3.gallery4-head {
-    font-size: 30px;
+    font-size: 40px;
     line-height: 37px; }
   .w3l-main-banner h3.banner-text {
-    font-size: 40px;
+    font-size: 45px;
     line-height: 75px; }
   .w3l-main-banner .banner-top-inner-page {
     min-height: 180px; } }
@@ -9969,23 +9969,23 @@ a.navbar-brand span.fa {
 
 @media (max-width: 600px) {
   .w3l-main-banner h3.gallery4-head {
-    margin-bottom: 20px; }
+    margin-bottom: 35px; }
   .w3l-main-banner .banner-view {
     min-height: 550px; } }
 
 @media (max-width: 569px) {
   .w3l-main-banner h3.gallery4-head {
-    font-size: 26px;
+    font-size: 32px;
     line-height: 34px; }
   .w3l-main-banner h3.banner-text {
-    font-size: 30px;
+    font-size: 35px;
     line-height: 55px; }
   .w3l-main-banner .banner-top-inner-page {
     min-height: 120px; } }
 
 @media (max-width: 440px) {
   .w3l-main-banner h3.banner-text {
-    font-size: 25px;
+    font-size: 30px;
     line-height: 50px; } }
 
 #stars {
